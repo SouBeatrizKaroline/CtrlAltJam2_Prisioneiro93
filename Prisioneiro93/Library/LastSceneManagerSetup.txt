@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Mapa/map texte/Mapa teste.unity
+- path: Assets/Scenes/mapa nicole.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
